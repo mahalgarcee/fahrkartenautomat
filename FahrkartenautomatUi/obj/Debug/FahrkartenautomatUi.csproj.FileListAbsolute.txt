@@ -1,0 +1,10 @@
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\bin\Debug\FahrkartenautomatUi.exe.config
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\bin\Debug\FahrkartenautomatUi.exe
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\bin\Debug\FahrkartenautomatUi.pdb
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\obj\Debug\FahrkartenautomatUi.csprojAssemblyReference.cache
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\obj\Debug\FahrkartenautomatUi.Form1.resources
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\obj\Debug\FahrkartenautomatUi.Properties.Resources.resources
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\obj\Debug\FahrkartenautomatUi.csproj.GenerateResource.cache
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\obj\Debug\FahrkartenautomatUi.csproj.CoreCompileInputs.cache
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\obj\Debug\FahrkartenautomatUi.exe
+C:\Users\mahag\source\repos\FahrkartenautomatUi\FahrkartenautomatUi\obj\Debug\FahrkartenautomatUi.pdb

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FahrkartenautomatUi.Automat">
+    <Position X="2.5" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABUAAQAIAAAEAAEAAAAAIAAAAAAAAAAIAQABAAA=</HashCode>
+      <FileName>Automat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FahrkartenautomatUi.Buchung">
+    <Position X="5.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAACAEAAAAIAAAGAAAAAAAAAAAAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Buchung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FahrkartenautomatUi.Form1">
+    <Position X="7.5" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAQGAAAAEBAAGIQAADAAE4AAAAAPQQAIBAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FahrkartenautomatUi.RichTextBoxExtensions">
+    <Position X="10.25" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FahrkartenautomatUi.Program">
+    <Position X="10.25" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FahrkartenautomatUi.Properties.Resources">
+    <Position X="10.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FahrkartenautomatUi.Properties.Settings">
+    <Position X="10.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
