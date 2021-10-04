@@ -25,7 +25,7 @@ Auf der Anwendungsschnistelle wird die Ausgabe gezeigt. Die drei ersten Zeilen d
 ## Eingabe Datei  
 
 :star2: In diesem Beispiel handelt es sich um zwei Geschäftsfälle zu simulieren. Die Eingabedatei hat folgenden Inhalt:
-<img src="Eingabe.PNG">
+<img src="Eingabe.PNG">  
 Der Automat erhält also zu Anfang jeweils zehn Stücke von den möglichen Münzen, das heißt, dass der Münzbestand zehn Stücke von: 2€, 1€, 50 Cent, 20 Cent, und 10 Cent enthält. Zwei Geschäftsfälle werden simuliert. Der erste Geschäftsfall hat als Fahrpreis 3.60€, und zwei Stücke von 2.00€ sind eingeworfen. Der zweite Geschäftsfall hat als Fahrpreis 5.00€, und ein Stück von 5.00€ sind eingeworfen.  
 Der Anfangsbestand beträgt 38.0€.  
 
